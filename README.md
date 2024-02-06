@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Rafael Ferreira 😁
+## Bem-vindo(a) ao perfil de Rafael Ferreira
 
  <div>
    <a href="https://github.com/RafaelHzn">
