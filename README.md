@@ -15,11 +15,6 @@
  
 # 
  
-<div> 
- <a href = "mailto:rafael.bemestar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/RafaelHzn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 <div><br>
  <img align="left" alt="rafa-funko" height="250em" src="https://portfolio-rho-nine-96.vercel.app/assets/img/rafunkopop.png" /><br>
  <a align "right">38 anos</a>
@@ -31,5 +26,10 @@
  <a align "right">Estudando Javascript</a>
  <br><br>
  <a align "right">Estudando Product Management</a>
+</div>
+
+<div> 
+ <a href = "mailto:rafael.bemestar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/RafaelHzn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
