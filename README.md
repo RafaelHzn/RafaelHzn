@@ -22,7 +22,9 @@
  <br><br>
  <a align "right">Consultor de Marketing</a>
  <br><br>
- <a align "right">Estudando Javascript</a>
+ <a align "right">Iniciante em HTML, CSS, Javascript e React Framework</a>
+ <br><br>
+ <a align "right">Estudando Java e Spring Framework</a>
  <br><br>
  <a align "right">Estudando Product Management</a>
 </div>
