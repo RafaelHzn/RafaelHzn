@@ -2,7 +2,7 @@
  Seja bem-vindo(a) ao ao meu perfil
  
 <div><br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelhzn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelhzn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhzn&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
  
