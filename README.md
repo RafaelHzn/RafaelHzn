@@ -15,18 +15,18 @@
 # 
  
 <div>
- <img align="left" alt="rafa-funko" height="250em" src="https://portfolio-rho-nine-96.vercel.app/assets/img/rafunkopop.png" /><br>
+ <img align="left" alt="rafa-funko" height="320em" src="https://portfolio-rho-nine-96.vercel.app/assets/img/rafunkopop.png" /><br>
  <a align "right">38 anos</a>
- <br><br>
- <a align "right">Graduado em Publicidade</a>
  <br><br>
  <a align "right">Consultor de Marketing</a>
  <br><br>
- <a align "right">Iniciante em HTML, CSS, Javascript e React Framework</a>
+ <a align "right">Graduado em Publicidade</a>
+ <br><br>
+ <a align "right">Estudando Product Management</a>
  <br><br>
  <a align "right">Estudando Java e Spring Framework</a>
  <br><br>
- <a align "right">Estudando Product Management</a>
+ <a align "right">Iniciante em HTML, CSS, Javascript e React Framework</a>
 </div>
 
 <dl><br><br>
