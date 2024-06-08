@@ -21,7 +21,7 @@
  
 <div>
  <img align="left" alt="rafa-funko" height="320em" src="https://portfolio-rho-nine-96.vercel.app/assets/img/rafunkopop.png" /><br>
- <a align "right">38 anos</a>
+ <a align "right">39 anos</a>
  <br><br>
  <a align "right">Consultor de Marketing</a>
  <br><br>
